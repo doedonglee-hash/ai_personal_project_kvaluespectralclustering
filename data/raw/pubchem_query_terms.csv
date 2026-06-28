@@ -1,0 +1,10 @@
+alkyne,query_term,notes
+OCT,cyclooctyne,Verify that the returned structure matches the reaction scaffold.
+ALO,aryl-less cyclooctyne,PubChem may not resolve this abbreviation directly.
+MOFO,monofluorinated cyclooctyne,PubChem may not resolve this abbreviation directly.
+DIFO,difluorinated cyclooctyne,Check exact DIFO generation and substituent pattern.
+DIBO,dibenzocyclooctyne,Check whether DIBO and DBCO are treated separately in the source.
+BARAC,biarylazacyclooctynone,Check exact BARAC derivative.
+DIBAC or ADIBO,azadibenzocyclooctyne,Check abbreviation and derivative identity.
+DIMAC,dimethoxyazacyclooctyne,Check exact hydrophilic azacyclooctyne structure.
+

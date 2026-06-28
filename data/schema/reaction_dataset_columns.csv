@@ -1,0 +1,28 @@
+column,required,description
+record_id,yes,Unique row identifier.
+reaction_type,yes,Reaction class such as SPAAC CuAAC or thermal_Huisgen.
+azide,yes,Azide partner name or generic descriptor.
+alkyne,yes,Alkyne partner name.
+catalyst,yes,Catalyst description; use none if uncatalyzed.
+catalyst_present,yes,1 if catalyst is present otherwise 0.
+solvent,no,Solvent or buffer as reported.
+solvent_class,no,Coarse solvent class such as aqueous organic mixed unknown.
+temperature_K,no,Temperature in kelvin.
+pH,no,pH if reported.
+k_value,no,Second-order rate constant or reported kinetic value.
+k_unit,no,Unit for k_value; keep as reported and normalize where possible.
+Ea_kJ_mol,no,Activation energy in kJ/mol.
+yield_percent,no,Reported yield in percent.
+SMILES,no,SMILES for main alkyne or representative substrate.
+alkyne_family,no,Manual family label such as cyclooctyne fluorinated_cyclooctyne dibenzocyclooctyne.
+ring_strain_level,no,Manual ordinal descriptor from 0 to 3.
+fluorine_count,no,Number of fluorine substituents on the reactive alkyne scaffold.
+fused_aromatic_count,no,Number of fused aromatic rings in the alkyne scaffold.
+heteroatom_in_ring,no,1 if key cycloalkyne ring includes a heteroatom otherwise 0.
+rate_label,no,Human label such as slow medium fast.
+source,yes,Paper review database or source note.
+source_doi,no,DOI when available.
+source_type,yes,primary_article review public_db secondary_summary or template.
+verification_status,yes,primary_checked needs_primary_check or template.
+notes,no,Free-text caveats and extraction notes.
+

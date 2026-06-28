@@ -1,0 +1,27 @@
+record_id,alkyne,component_1,component_2,cluster,rate_label,log10_k,verification_status
+rec001,cyclooctyne compound 12,0.893847746427572,1.4177343363288206,spectral_cluster_2,,-2.3665315444204134,primary_checked
+rec002,free acid of cyclooctyne compound 1,1.718468215753941,3.096478115830297,spectral_cluster_2,,-2.619788758288394,primary_checked
+rec003,cyclooctyne compound 8,1.2666319434116802,1.4056818983469324,spectral_cluster_2,,-2.886056647693163,primary_checked
+rec004,cyclooctyne compound 13,1.2666319434116804,1.4056818983469324,spectral_cluster_2,,-2.9208187539523753,primary_checked
+rec005,DIFO,-3.136973861216953,0.055243736678988645,spectral_cluster_0,,-1.1191864077192086,primary_checked
+rec006,"6,7-dimethoxyazacyclooct-4-yne (DIMAC)",-2.3040304945452537,-0.12247418171902719,spectral_cluster_0,,-2.5228787452803374,primary_checked
+rec007,second-generation DIFO compound 2,-1.831489478471829,-0.3641306334956322,spectral_cluster_0,,-1.3767507096020994,primary_checked
+rec008,second-generation DIFO compound 3,-1.8314894784718287,-0.36413063349563235,spectral_cluster_0,,-1.2839966563652008,primary_checked
+rec009,second-generation DIFO compound 2,-4.3029312867207175,0.1417014213081569,spectral_cluster_0,,-1.0457574905606752,primary_checked
+rec010,second-generation DIFO compound 3,-4.3029312867207175,0.14170142130815716,spectral_cluster_0,,-1.0655015487564323,primary_checked
+rec011,BARAC derivative 15,0.4770852194673189,-0.739599780499286,spectral_cluster_1,,-0.017728766960431602,needs_primary_check
+rec063,endo-6 (bicyclo[6.1.0]non-4-yn-9-ol),-2.1605439100746624,0.10708133507990245,spectral_cluster_0,,-0.8538719643217619,primary_checked
+rec064,exo-6 (bicyclo[6.1.0]non-4-yn-9-ol),-2.1605439100746624,0.10708133507990245,spectral_cluster_0,,-0.958607314841775,primary_checked
+rec065,endo-6 (bicyclo[6.1.0]non-4-yn-9-ol),-2.377055520844646,0.14617347629664498,spectral_cluster_0,,-0.5376020021010439,primary_checked
+rec066,exo-6 (bicyclo[6.1.0]non-4-yn-9-ol),-2.377055520844646,0.14617347629664498,spectral_cluster_0,,-0.721246399047171,primary_checked
+rec067,"1a (11,12-didehydro-5,6-dihydro-dibenzo[a,e]cycloocten-5-ol; DIBO)",1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.2464169411070933,primary_checked
+rec068,"3c (photogenerated 4,9-dibutoxy dibenzocyclooctyne)",1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.1174754620451195,primary_checked
+rec069,"3c (photogenerated 4,9-dibutoxy dibenzocyclooctyne)",1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.2321023839819094,primary_checked
+rec070,"3c (photogenerated 4,9-dibutoxy dibenzocyclooctyne)",1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.4647058799572295,primary_checked
+rec071,"3c (photogenerated 4,9-dibutoxy dibenzocyclooctyne)",1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.7878123955960423,primary_checked
+rec072,"3c (photogenerated 4,9-dibutoxy dibenzocyclooctyne)",1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.3555614105321614,primary_checked
+rec073,12,2.3770165450734444,7.020083836121546,spectral_cluster_1,,-1.408935392973501,primary_checked
+rec074,3 (4-dibenzocyclooctynol; DIBO),1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.2464169411070933,primary_checked
+rec075,9 (DIBO carbamate),1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.157390760389438,primary_checked
+rec076,11 (DIBO ketone),1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-0.5867002359187482,primary_checked
+rec077,12 (DIBO oxime),1.8785363134440283,-1.3600481057813347,spectral_cluster_1,,-1.2139587897574458,primary_checked

@@ -1,0 +1,10 @@
+{
+  "input": "C:\\Users\\theripus\\OneDrive - 전남과학고등학교\\문서\\정보\\project-aipersonal\\data\\processed\\click_reaction_literature_cleaned.csv",
+  "rows_used": 26,
+  "feature_count": 31,
+  "projection_method": "sklearn",
+  "cluster_method": "spectral_clustering",
+  "ridge_leave_one_out_rmse_log10_k": 0.5807158424573068,
+  "figure_path": "C:\\Users\\theripus\\OneDrive - 전남과학고등학교\\문서\\정보\\project-aipersonal\\reports\\figures\\pca_clusters.png",
+  "warning": "Treat results as exploratory until all analysis rows are primary_checked and comparable."
+}

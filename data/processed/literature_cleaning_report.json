@@ -1,0 +1,23 @@
+{
+  "rows": 89,
+  "valid_after_cleaning": true,
+  "errors": [],
+  "warnings": [
+    "13 row(s) are not primary_checked. Treat analysis as exploratory."
+  ],
+  "rows_with_numeric_k": 26,
+  "rows_with_numeric_yield": 54,
+  "rows_with_numeric_Ea": 0,
+  "reaction_type_counts": {
+    "CuAAC": 53,
+    "SPAAC": 34,
+    "thermal_Huisgen": 2
+  },
+  "verification_status_counts": {
+    "primary_checked": 76,
+    "needs_primary_check": 13
+  },
+  "recommendation": "Good for exploratory workflow and yield/condition summaries; add more primary-checked k_value rows before making strong claims about reaction-rate prediction.",
+  "input": "C:\\Users\\theripus\\OneDrive - 전남과학고등학교\\문서\\정보\\project-aipersonal\\data\\raw\\click_reaction_literature.csv",
+  "output": "C:\\Users\\theripus\\OneDrive - 전남과학고등학교\\문서\\정보\\project-aipersonal\\data\\processed\\click_reaction_literature_cleaned.csv"
+}

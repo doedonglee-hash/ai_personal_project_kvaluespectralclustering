@@ -1,0 +1,3 @@
+record_id,reaction_type,azide,alkyne,catalyst,catalyst_present,solvent,solvent_class,temperature_K,pH,k_value,k_unit,Ea_kJ_mol,yield_percent,SMILES,alkyne_family,ring_strain_level,fluorine_count,fused_aromatic_count,heteroatom_in_ring,rate_label,source,source_doi,source_type,verification_status,notes
+TEMPLATE_001,SPAAC,generic organic azide,alkyne name,none,0,,,,,,M^-1 s^-1,,,,,,,,,source title or URL,,template,template,Copy this row and replace every field with extracted data.
+
